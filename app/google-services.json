@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531598896022",
+    "project_id": "dsm-desafio2",
+    "storage_bucket": "dsm-desafio2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531598896022:android:d135c0882818dcd7d68bb7",
+        "android_client_info": {
+          "package_name": "com.example.dsm_desafio2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531598896022-pu69abquneq0faukmth4fmnu1sb7tu04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_pq815HHyKoYMdEK7WnicILMP2xg20Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531598896022-pu69abquneq0faukmth4fmnu1sb7tu04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
